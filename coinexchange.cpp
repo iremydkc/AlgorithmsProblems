@@ -1,6 +1,7 @@
 /*
-    this small program's goal is to solve money exchange problem. We have three input variable.How many unit number of coins you have, what is the set of coins and what is exchanged amount of money.
-
+    this small program's goal is to solve money exchange problem.
+    We have three input variable.How many unit number of coins you have, what
+    is the set of coins and what is exchanged amount of money.
 
 */
 

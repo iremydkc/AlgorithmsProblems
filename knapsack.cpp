@@ -1,3 +1,10 @@
+/*
+    This small program is about solving 0-1 knapsack problem. Your input variables 
+    number of items, capacity of knapscak and index number of items, weight of item, value of item. 
+    Your output maximum gain and index number of selected items
+
+*/
+
 #include <iostream>
 
 using namespace std;
